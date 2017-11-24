@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 21 Nov 2017 13:26:27 at http://kute-themes.com/html/kuteshop/html/index3.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://kute-themes.com/html/kuteshop/html/index3.html -O1 "D:\Get_web\Kutu_one\Kutu_one" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:38:22	Error: 	"Not Found" (404) at link kute-themes.com/html/kuteshop/html/cart.html (from kute-themes.com/html/kuteshop/html/index3.html)
+13:58:42	Error: 	"Not Found" (404) at link kute-themes.com/html/kuteshop/html/assets/lib/owl.carousel/owl.video.play.png (from kute-themes.com/html/kuteshop/html/assets/lib/owl.carousel/owl.carousel.css)
+13:59:14	Warning: 	Retry after error -2 (Receive Time Out) at link kute-themes.com/html/kuteshop/html/assets/data/option8/slider2.jpg (from kute-themes.com/html/kuteshop/html/index8.html)
+13:59:14	Warning: 	Retry after error -2 (Receive Time Out) at link kute-themes.com/html/kuteshop/html/assets/data/option8/p4-1.jpg (from kute-themes.com/html/kuteshop/html/index8.html)
+13:59:17	Warning: 	Retry after error -4 (Connect Error) at link kute-themes.com/html/kuteshop/html/assets/data/option8/p5.jpg (from kute-themes.com/html/kuteshop/html/index8.html)
+13:59:24	Warning: 	Retry after error -4 (Connect Error) at link kute-themes.com/html/kuteshop/html/assets/data/option8/p5-1.jpg (from kute-themes.com/html/kuteshop/html/index8.html)
+13:59:25	Error: 	"Not Found" (404) at link kute-themes.com/html/kuteshop/html/wishList.html (from kute-themes.com/html/kuteshop/html/blog.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 33 minutes 17 seconds : 763 links scanned, 755 files written (42037059 bytes overall) [42224364 bytes received at 21143 bytes/sec], 1.8 requests per connection
+(3 errors, 4 warnings, 0 messages)
